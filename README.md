@@ -1,2 +1,2 @@
 # RP_GIS
-the GIS interface of RationalPeak Model
+the GIS interface of <i>RationalPeak</i> Model
